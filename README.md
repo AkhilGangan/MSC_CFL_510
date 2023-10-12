@@ -1,1 +1,1 @@
-PRACTICALS
+<h1>Practicals</h1>
